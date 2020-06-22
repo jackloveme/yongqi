@@ -5,9 +5,8 @@ header-img: img/desktop-background.jpg
 email: 2623863299@qq.com
 description: "Every failure is leading towards success."
 keyword: "YQ, YQ Blog, 永琪的博客, shiyongqi, 石永琪, 健身,军事,韩剧"
-url: "http://jackloveme.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://gitee.com/jackloveme/jackloveme" # you code repository
+
+
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
